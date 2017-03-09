@@ -1,0 +1,40 @@
+{
+  "name": "eslint-plugin-careaxiom",
+  "version": "0.0.0",
+  "description": "eslint rules used in careaxiom",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Umar Muneer",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~3.9.1",
+    "mocha": "^3.1.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umar-muneer/eslint-plugin-careaxiom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/umar-muneer/eslint-plugin-careaxiom/issues"
+  },
+  "homepage": "https://github.com/umar-muneer/eslint-plugin-careaxiom#readme"
+}
