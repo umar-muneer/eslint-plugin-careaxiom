@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-careaxiom",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "eslint rules used in careaxiom",
   "keywords": [
     "eslint",
